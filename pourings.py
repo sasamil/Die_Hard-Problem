@@ -52,11 +52,11 @@ def pour(vol1, vol2, x):
     return arr1
   
 # ----------------------------------
-# usage example: ./vessels 5 3 4
+# usage example: ./pourings 5 3 4
 def main():
   if len(sys.argv) != 4:
     print "Program failed."
-    print 'usage: ./vessels {vessel1  vessel1  goal_volume}'
+    print 'usage: ./pourings {jug1  jug2  goal_volume}'
     print
     sys.exit(1)
  
