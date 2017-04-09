@@ -9,3 +9,5 @@ I was thinking a bit... What happens if McClane (and Zeus, eventally) find thems
 
 So, I've decided to help! I've made a small python program as a general solution for whichever water-pouring problem.
 
+<img src="http://www.pogledi.rs/forum/images/smilies/Dim.gif" alt="dim" height="25" width="25"> 
+
