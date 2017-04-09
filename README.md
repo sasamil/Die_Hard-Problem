@@ -7,6 +7,5 @@ One of the Simon's problem was to disarm the suitcase-bomb by placing exactly 4 
 
 I was thinking a bit... What happens if McClane (and Zeus, eventally) find themself in a similar situation again? The Simon is dead but - what happens if an another Simon provides (for example) jugs of 15 and 10 gallons asking exactly 8 gallons for disarming the bomb?!
 
-So, I've decided to help! <img src="http://www.pogledi.rs/forum/images/smilies/Dim.gif" alt="dim" height="25" width="25"> 
-<br/>I've made a small python program as a general solution for whichever water-pouring problem.  
+So, I've decided to help! I've made a small python program as a general solution for whichever water-pouring problem. <br/><br/><img src="http://www.pogledi.rs/forum/images/smilies/Dim.gif" alt="dim" height="25" width="25"> 
 
