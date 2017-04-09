@@ -56,7 +56,7 @@ def pour(vol1, vol2, x):
 def main():
   if len(sys.argv) != 4:
     print "Program failed."
-    print 'usage: ./pourings {jug1  jug2  goal_volume}'
+    print 'usage: ./pourings {jug1  jug2  goal}'
     print
     sys.exit(1)
  
