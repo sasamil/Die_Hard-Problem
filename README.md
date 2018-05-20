@@ -1,4 +1,4 @@
-# Die_Hard
+# Die_Hard - Problem
 Generalized version of Simon's problem (<i>Die Hard With A Vengeance</i>) and its solution.
 
 In the <i>"Die Hard With a Vengeance"</i> movie, a bomber named Simon Says was terrorizing the city. One policeman (McClane) and an electrician (Zeus Carver) were exposed to a different type of torture. They had to solve Simon's increasingly difficult logical tasks. Luckily, they were good matematicians and so they saved the world!  
